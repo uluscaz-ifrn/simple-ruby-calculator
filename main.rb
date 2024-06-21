@@ -15,7 +15,7 @@ def calculadora
 end
 
 puts "Olá, você deseja executar a calculadora?"
-puts "Digite 1 para sim e 2 para não"
+puts "Digite 1 para sim e qualquer outro número para não"
 
 opcao = gets.chomp.to_i
 
